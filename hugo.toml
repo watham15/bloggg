@@ -6,7 +6,7 @@ hasCJKLanguage = true
 languageCode = "en"
 rssLimit = 10
 theme = "hugo-texify3"
-title = "TeXify3"
+title = "someTalk"
 
 [pagination]
 pagerSize = 5
